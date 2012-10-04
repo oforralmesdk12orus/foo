@@ -1,6 +1,6 @@
 {
     "foo": "foo/foo-bundle",
-    "description": "The \"Symfony Standard Edition\" distribution",
+    "description": "Foo Bundle",
     "autoload": {
         "psr-0": { "": "src/" }
     },
