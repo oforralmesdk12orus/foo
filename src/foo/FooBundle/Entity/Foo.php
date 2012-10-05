@@ -28,7 +28,6 @@ class Foo
      */
     private $foo;
 
-
     /**
      * Get id
      *
